@@ -15,7 +15,9 @@ The recommended platform to work with keras is tensorflow.
 
 ## Autors
 Natalia Diaz
+
 Cedric Twardzik
+
 Zacharie Duputel 
 
 
